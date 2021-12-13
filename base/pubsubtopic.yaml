@@ -2,6 +2,7 @@
   kind: PubSubTopic
   metadata:
     name: pubsub-adamg
+    namespace: config-connector
     labels:
       app: nginx
   #spec:
