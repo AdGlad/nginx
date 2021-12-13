@@ -4,5 +4,5 @@
     name: pubsub-adamg
     labels:
       app: nginx
-  spec:
-    resourceID: pubsub-adamg
+  #spec:
+   #resourceID: pubsub-adamg
